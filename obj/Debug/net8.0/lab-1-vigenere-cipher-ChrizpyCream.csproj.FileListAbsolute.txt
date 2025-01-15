@@ -1,0 +1,15 @@
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\bin\Debug\net8.0\lab-1-vigenere-cipher-ChrizpyCream.exe
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\bin\Debug\net8.0\lab-1-vigenere-cipher-ChrizpyCream.deps.json
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\bin\Debug\net8.0\lab-1-vigenere-cipher-ChrizpyCream.runtimeconfig.json
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\bin\Debug\net8.0\lab-1-vigenere-cipher-ChrizpyCream.dll
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\bin\Debug\net8.0\lab-1-vigenere-cipher-ChrizpyCream.pdb
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\obj\Debug\net8.0\lab-1-vigenere-cipher-ChrizpyCream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\obj\Debug\net8.0\lab-1-vigenere-cipher-ChrizpyCream.AssemblyInfoInputs.cache
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\obj\Debug\net8.0\lab-1-vigenere-cipher-ChrizpyCream.AssemblyInfo.cs
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\obj\Debug\net8.0\lab-1-vigenere-cipher-ChrizpyCream.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\obj\Debug\net8.0\lab-1-vigenere-cipher-ChrizpyCream.sourcelink.json
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\obj\Debug\net8.0\lab-1-vigenere-cipher-ChrizpyCream.dll
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\obj\Debug\net8.0\refint\lab-1-vigenere-cipher-ChrizpyCream.dll
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\obj\Debug\net8.0\lab-1-vigenere-cipher-ChrizpyCream.pdb
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\obj\Debug\net8.0\lab-1-vigenere-cipher-ChrizpyCream.genruntimeconfig.cache
+C:\Users\xxlaz\cs1410\lab-1-vigenere-cipher-ChrizpyCream\obj\Debug\net8.0\ref\lab-1-vigenere-cipher-ChrizpyCream.dll
